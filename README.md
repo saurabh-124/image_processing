@@ -4,6 +4,8 @@ This repo is for image processing, 6th sem, Btech.
 
 ## How to run
 
+First, install python and git to your pc, then follow the steps below.
+
 1. open cmd in windows or terminal in windows and clone the repo
 
 ```bash
